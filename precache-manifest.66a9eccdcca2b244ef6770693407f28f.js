@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ac7b05d6be01fdf52b29d8696286d244",
+    "revision": "2e36c577f57af5f7cf2a9b47322b6fd2",
     "url": "/gigafund/index.html"
   },
   {
-    "revision": "e17016c0b76f0f431cc4",
+    "revision": "7319e70daa7d3b91955e",
     "url": "/gigafund/static/css/2.764ccc25.chunk.css"
   },
   {
-    "revision": "b430826501a9bec30a78",
+    "revision": "950000fc07ed605f2de5",
     "url": "/gigafund/static/css/main.ad87f0e3.chunk.css"
   },
   {
-    "revision": "e17016c0b76f0f431cc4",
-    "url": "/gigafund/static/js/2.c798292f.chunk.js"
+    "revision": "7319e70daa7d3b91955e",
+    "url": "/gigafund/static/js/2.64bd5e5a.chunk.js"
   },
   {
     "revision": "2409169cc9d488610c63e21c6ccf8ee2",
-    "url": "/gigafund/static/js/2.c798292f.chunk.js.LICENSE.txt"
+    "url": "/gigafund/static/js/2.64bd5e5a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b430826501a9bec30a78",
-    "url": "/gigafund/static/js/main.dfe1d3c9.chunk.js"
+    "revision": "950000fc07ed605f2de5",
+    "url": "/gigafund/static/js/main.c31877eb.chunk.js"
   },
   {
     "revision": "49a4009ab08556710a49",
