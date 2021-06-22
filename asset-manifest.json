@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/gigafund/static/css/main.ab205c56.chunk.css",
+    "main.css": "/gigafund/static/css/main.6d59b366.chunk.css",
     "main.js": "/gigafund/static/js/main.8fbb1415.chunk.js",
     "main.js.map": "/gigafund/static/js/main.8fbb1415.chunk.js.map",
     "runtime-main.js": "/gigafund/static/js/runtime-main.f1a16644.js",
@@ -9,10 +9,10 @@
     "static/js/2.08f57f70.chunk.js": "/gigafund/static/js/2.08f57f70.chunk.js",
     "static/js/2.08f57f70.chunk.js.map": "/gigafund/static/js/2.08f57f70.chunk.js.map",
     "index.html": "/gigafund/index.html",
-    "precache-manifest.513b0b0e191497a15bb1227ba448cf1f.js": "/gigafund/precache-manifest.513b0b0e191497a15bb1227ba448cf1f.js",
+    "precache-manifest.3695708c47c4e4e4eb5ea55732aec6b7.js": "/gigafund/precache-manifest.3695708c47c4e4e4eb5ea55732aec6b7.js",
     "service-worker.js": "/gigafund/service-worker.js",
     "static/css/2.ed64c74d.chunk.css.map": "/gigafund/static/css/2.ed64c74d.chunk.css.map",
-    "static/css/main.ab205c56.chunk.css.map": "/gigafund/static/css/main.ab205c56.chunk.css.map",
+    "static/css/main.6d59b366.chunk.css.map": "/gigafund/static/css/main.6d59b366.chunk.css.map",
     "static/js/2.08f57f70.chunk.js.LICENSE.txt": "/gigafund/static/js/2.08f57f70.chunk.js.LICENSE.txt",
     "static/media/common.scss": "/gigafund/static/media/exo2.9bf7b065.woff2",
     "static/media/Risks.module.scss": "/gigafund/static/media/risks_ill.043785f9.svg"
@@ -21,7 +21,7 @@
     "static/js/runtime-main.f1a16644.js",
     "static/css/2.ed64c74d.chunk.css",
     "static/js/2.08f57f70.chunk.js",
-    "static/css/main.ab205c56.chunk.css",
+    "static/css/main.6d59b366.chunk.css",
     "static/js/main.8fbb1415.chunk.js"
   ]
 }
