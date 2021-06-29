@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ba1581ebd37c65c0ce54bc03a52d59f7",
+    "revision": "69b42e7a569fb7784ec5bfa862501c00",
     "url": "/gigafund/index.html"
   },
   {
-    "revision": "0c2874bfae92dadc9170",
+    "revision": "f7edf0aeb4b5e5933a36",
     "url": "/gigafund/static/css/2.ed64c74d.chunk.css"
   },
   {
-    "revision": "c9d9a59cd2684c085fba",
-    "url": "/gigafund/static/css/main.6d59b366.chunk.css"
+    "revision": "16352b1bef0454a16484",
+    "url": "/gigafund/static/css/main.7d41abeb.chunk.css"
   },
   {
-    "revision": "0c2874bfae92dadc9170",
-    "url": "/gigafund/static/js/2.08f57f70.chunk.js"
+    "revision": "f7edf0aeb4b5e5933a36",
+    "url": "/gigafund/static/js/2.61833c46.chunk.js"
   },
   {
     "revision": "2409169cc9d488610c63e21c6ccf8ee2",
-    "url": "/gigafund/static/js/2.08f57f70.chunk.js.LICENSE.txt"
+    "url": "/gigafund/static/js/2.61833c46.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c9d9a59cd2684c085fba",
-    "url": "/gigafund/static/js/main.8fbb1415.chunk.js"
+    "revision": "16352b1bef0454a16484",
+    "url": "/gigafund/static/js/main.c6ad88ca.chunk.js"
   },
   {
     "revision": "49a4009ab08556710a49",
