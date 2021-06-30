@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "55a78ea1b7ba7df37de5853cb5503f26",
+    "revision": "db7b7baab1614a25ec98809334217373",
     "url": "/gigafund/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gigafund/static/css/2.ed64c74d.chunk.css"
   },
   {
-    "revision": "2cc819b5b9b2b98d7c06",
-    "url": "/gigafund/static/css/main.7e81c21c.chunk.css"
+    "revision": "9bf2bbedc820f99c18cf",
+    "url": "/gigafund/static/css/main.69c0ba4d.chunk.css"
   },
   {
     "revision": "5c3fcfe32b25e776812a",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gigafund/static/js/2.d3f2d715.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2cc819b5b9b2b98d7c06",
-    "url": "/gigafund/static/js/main.a28cb4b7.chunk.js"
+    "revision": "9bf2bbedc820f99c18cf",
+    "url": "/gigafund/static/js/main.9d272528.chunk.js"
   },
   {
     "revision": "49a4009ab08556710a49",
@@ -54,9 +54,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9bf7b06587427cb1165b13120df636c0",
     "url": "/gigafund/static/media/exo2.9bf7b065.woff2"
-  },
-  {
-    "revision": "043785f9c1ae6b7f9fe7c2bfbc804b67",
-    "url": "/gigafund/static/media/risks_ill.043785f9.svg"
   }
 ]);
